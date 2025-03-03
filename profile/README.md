@@ -2,6 +2,7 @@
 
 ## 🚀 개요
 LLM 기반 대화형 모의 면접 시스템
+
 AI 기능을 활용하여 사용자의 **이력서를 분석하고 맞춤형 면접 질문을 생성**하는 시스템입니다.  
 사용자의 답변을 고려하여 **구체적인 피드백과 개선 사항을 제공**하며,  
 **모의 면접을 통해 실전 대비 훈련**을 지원합니다.
@@ -77,6 +78,14 @@ open -a "Google Chrome" --args --disable-features=BlockInsecurePrivateNetworkReq
 ```
 - 샘플 이력서는 materials 폴더 아래에 있습니다. 예시 데이터와 같이 이력서 구성을 하실 필요는 없습니다. 
 ## 📷 스크린샷 + 자료
+홈 화면
+![Welcome Page](je-myeon-so/.github/materials/WelcomeScreen.png)
+
+인터뷰 페이지
+![Interview Page](je-myeon-so/.github/materials/Interview.png)
+
+결과 + 분석 페이지
+![Results Page](je-myeon-so/.github/materials/Resultspage.png)
 
 ### [발표 자료 ppt](https://drive.google.com/file/d/1_XMY_YlbMH5o22Gf_6rNLmscqKlPkvne/view?usp=sharing)
 ### [시연 동영상](https://drive.google.com/file/d/1iF0lrO08n_0wkf1KT4mlqYLqkHvn1FU6/view?usp=sharing)
