@@ -87,5 +87,5 @@ open -a "Google Chrome" --args --disable-features=BlockInsecurePrivateNetworkReq
 결과 + 분석 페이지
 ![Results Page](../materials/Resultspage.png)
 
-### [발표 자료 ppt](https://drive.google.com/file/d/1_XMY_YlbMH5o22Gf_6rNLmscqKlPkvne/view?usp=sharing)
+### [발표 자료 ppt](https://drive.google.com/file/d/1mDEJwyn72twi2cJ-KOCkGUEnHNC2iyA7/view?usp=sharing)
 ### [시연 동영상](https://drive.google.com/file/d/1iF0lrO08n_0wkf1KT4mlqYLqkHvn1FU6/view?usp=sharing)
