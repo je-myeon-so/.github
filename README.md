@@ -1,4 +1,5 @@
-# 📝 제면소 (제대로 된 면접 소개합니다)
+# 📝 제면소 (제대로 된 면접 소개합니다) 
+## < 헤커톤 MVP ver. >
 
 ## 🚀 개요
 LLM 기반 대화형 모의 면접 시스템
@@ -79,13 +80,13 @@ open -a "Google Chrome" --args --disable-features=BlockInsecurePrivateNetworkReq
 - 샘플 이력서는 materials 폴더 아래에 있습니다. 예시 데이터와 같이 이력서 구성을 하실 필요는 없습니다. 
 ## 📷 스크린샷 + 자료
 홈 화면
-![Welcome Page](../materials/WelcomeScreen.png)
+![Welcome Page](/materials/WelcomeScreen.png)
 
 인터뷰 페이지
-![Interview Page](../materials/Interview.png)
+![Interview Page](/materials/Interview.png)
 
 결과 + 분석 페이지
-![Results Page](../materials/Resultspage.png)
+![Results Page](/materials/Resultspage.png)
 
-### [발표 자료 ppt](https://drive.google.com/file/d/1_XMY_YlbMH5o22Gf_6rNLmscqKlPkvne/view?usp=sharing)
+### [발표 자료 ppt](https://drive.google.com/file/d/1mDEJwyn72twi2cJ-KOCkGUEnHNC2iyA7/view?usp=sharing)
 ### [시연 동영상](https://drive.google.com/file/d/1iF0lrO08n_0wkf1KT4mlqYLqkHvn1FU6/view?usp=sharing)
